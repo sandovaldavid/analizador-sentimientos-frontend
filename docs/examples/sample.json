@@ -1,0 +1,52 @@
+[
+  {
+    "comment": "Este producto es excelente, superó mis expectativas!",
+    "user": "Juan",
+    "date": "2024-01-15"
+  },
+  {
+    "comment": "No me gustó nada, muy malo",
+    "user": "María",
+    "date": "2024-01-15"
+  },
+  {
+    "comment": "El servicio fue rápido y eficiente",
+    "user": "Carlos",
+    "date": "2024-01-15"
+  },
+  {
+    "comment": "Decepcionante, no vale la pena",
+    "user": "Ana",
+    "date": "2024-01-15"
+  },
+  {
+    "comment": "Es un producto normal, nada especial",
+    "user": "Pedro",
+    "date": "2024-01-15"
+  },
+  {
+    "comment": "Me encantó! Volveré a comprar",
+    "user": "Laura",
+    "date": "2024-01-15"
+  },
+  {
+    "comment": "Terrible experiencia, atención al cliente horrible",
+    "user": "Roberto",
+    "date": "2024-01-15"
+  },
+  {
+    "comment": "Está bien, cumple lo que promete",
+    "user": "Sofia",
+    "date": "2024-01-15"
+  },
+  {
+    "comment": "Increíble! Mejor de lo esperado",
+    "user": "Diego",
+    "date": "2024-01-15"
+  },
+  {
+    "comment": "No recomiendo, mala calidad",
+    "user": "Elena",
+    "date": "2024-01-15"
+  }
+]
