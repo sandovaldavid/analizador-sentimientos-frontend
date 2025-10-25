@@ -56,7 +56,7 @@ export default function Header() {
           {/* CTA & Toggle */}
           <div className="flex items-center gap-4">
             <a
-              href="https://github.com/sandovaldavid"
+              href="https://github.com/sandovaldavid/analizador-sentimientos-frontend"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden sm:inline-flex items-center gap-2 px-4 py-2 text-sm font-medium text-primary-700 dark:text-primary-200 hover:text-accent-600 dark:hover:text-accent-400 transition-colors"
