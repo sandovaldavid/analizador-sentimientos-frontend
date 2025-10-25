@@ -1,0 +1,16 @@
+export { default as FolderIcon } from './FolderIcon';
+export { default as ClipboardIcon } from './ClipboardIcon';
+export { default as BarChartIcon } from './BarChartIcon';
+export { default as NoteIcon } from './NoteIcon';
+export { default as LightbulbIcon } from './LightbulbIcon';
+export { default as SparklesIcon } from './SparklesIcon';
+export { default as AlertIcon } from './AlertIcon';
+export { default as GithubIcon } from './GithubIcon';
+export { default as LinkedinIcon } from './LinkedinIcon';
+export { default as TwitterIcon } from './TwitterIcon';
+export { default as FacebookIcon } from './FacebookIcon';
+export { default as InstagramIcon } from './InstagramIcon';
+export { default as MoonIcon } from './MoonIcon';
+export { default as SunIcon } from './SunIcon';
+export { default as TargetIcon } from './TargetIcon';
+export { default as WebSiteIcon } from './WebIcon';
