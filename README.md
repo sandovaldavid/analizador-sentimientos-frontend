@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=1200&h=630&fit=crop" alt="Sentiment Analysis Banner" width="100%">
-</p>
-
 <h1 align="center">🎯 Sentiment Analysis - Frontend</h1>
 
 [Revisa el backend del proyecto aqui!](https://github.com/sandovaldavid/analizador-sentimientos-backend)
@@ -24,8 +19,8 @@
 Prueba la aplicación desplegada y experimenta el análisis de sentimientos en tiempo real:
 
 <p align="center">
-  <a href="#" target="_blank">
-    <img src="#" alt="Ver Demo en Vivo">
+  <a href="https://analizador-sentimientos.devsandoval.me/" target="_blank">
+    <img src="https://analizador-sentimientos.devsandoval.me/og-image.webp" alt="Ver Demo en Vivo">
   </a>
 </p>
 
