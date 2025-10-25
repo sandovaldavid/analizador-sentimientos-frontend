@@ -323,7 +323,7 @@ export default function SentimentChart({
           </div>
           Resultados del Análisis
         </h2>
-        <div className="flex flex-col items-center justify-center h-64 bg-neutral-50 dark:bg-neutral-800/50 rounded-lg border-2 border-dashed border-neutral-300 dark:border-neutral-700">
+        <div className="flex flex-col items-center justify-center h-64 p-4 bg-neutral-50 dark:bg-neutral-800/50 rounded-lg border-2 border-dashed border-neutral-300 dark:border-neutral-700">
           <svg
             className="h-12 w-12 text-neutral-400 dark:text-neutral-600 mb-3"
             fill="none"
@@ -340,7 +340,7 @@ export default function SentimentChart({
           <p className="text-neutral-600 dark:text-neutral-400 font-semibold text-center">
             No hay datos para mostrar
           </p>
-          <p className="text-neutral-500 dark:text-neutral-500 text-sm mt-1">
+          <p className="text-neutral-500 dark:text-neutral-500 text-sm mt-1 text-center">
             Analiza un comentario o carga un archivo para ver resultados
           </p>
         </div>
@@ -505,10 +505,10 @@ export default function SentimentChart({
                         }`}
                       >
                         {result.sentiment === 'positive'
-                          ? '✓ Positivo'
+                          ? 'Positivo'
                           : result.sentiment === 'negative'
-                            ? '✗ Negativo'
-                            : '~ Neutral'}
+                            ? 'Negativo'
+                            : 'Neutral'}
                       </span>
                     </td>
                     <td className="px-4 py-3 text-right font-semibold text-neutral-900 dark:text-neutral-100 font-code">

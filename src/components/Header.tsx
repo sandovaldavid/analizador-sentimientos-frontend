@@ -50,7 +50,7 @@ export default function Header() {
           {/* Logo App */}
           <LogoApp
             size="md"
-            className="cursor-pointer hover:text-primary-600 dark:hover:text-primary-400 transition-colors duration-300"
+            className="cursor-pointer hover:text-primary-600 dark:hover:text-primary-400 transition-colors duration-300 hidden md:inline-flex"
           />
 
           {/* CTA & Toggle */}
