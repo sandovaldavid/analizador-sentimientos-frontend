@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /.git
+
+Sitemap: https://analizador-sentimientos.devsandoval.me/sitemap.xml
