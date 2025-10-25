@@ -1,6 +1,7 @@
 import './App.css';
 import { useSEO } from './hooks/useSEO';
 import SentimentDashboard from './components/SentimentDashboard';
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   useSEO({
@@ -11,7 +12,12 @@ function App() {
       'sentimientos, análisis de texto, IA, machine learning, procesamiento de lenguaje natural',
   });
 
-  return <SentimentDashboard />;
+  return (
+    <>
+      <SentimentDashboard />
+      <Analytics />
+    </>
+  );
 }
 
 export default App;
